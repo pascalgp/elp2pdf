@@ -61,5 +61,5 @@ elp2pdf.pl -t -n prt1 -P ~/printout -c 1 -w 30 lpt.prn
 elp2pdf.pl -l mvs -s SYS1 -n 00e -i localhost -p 1403 -f LiberationMono-Bold.ttf12
         Conversion for MVS JES2 systems (elp-mvs.pl),
         read from port 1403 on current computer,
-        system name is SYS1, printer name is prt1,
+        system name is SYS1, printer name is 00e,
         use LiberationMono Bold font.<PRE/>

@@ -35,7 +35,7 @@ $usage =
     "--path         | -P output path, default: current directory\n" .
     "--border-style | -S border style, default: $border_style\n" .
     "    0: normal, 1: first bar is 5 lines, 2: no border\n" .
-    "--baselineskip | -k baseline skip\n" .
+    "--skip         | -k baseline skip\n" .
     "--start-line   | -L print start line on page, default: $start_line\n" .
     "--wait         | -w wait time to close file in seconds, default: $wait\n" .
     "--y-shift      | -y vertical bars and border shift, +/- 192 units per line\n" .

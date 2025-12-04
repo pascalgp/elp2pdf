@@ -44,7 +44,7 @@ With no FILE, or when FILE is -, read standard input.
 --path         | -P output path, default: current directory
 --border-style | -S border style, default: 0
     0: normal, 1: first bar is 5 lines, 2: no border
---baselineskip | -b baseline skip
+--skip         | -k baseline skip
 --start-line   | -L print start line on page, default: 4
 --wait         | -w wait time to close file in seconds, default: 3
 --y-shift      | -y vertical bars and border shift, +/- 192 units per line
